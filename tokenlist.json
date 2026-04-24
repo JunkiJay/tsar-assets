@@ -1,0 +1,17 @@
+{
+  "name": "TSAR Token List",
+  "logoURI": "https://junkijay.github.io/tsar-assets/logomark.png",
+  "keywords": ["tsar", "gold", "ethereum"],
+  "timestamp": "2026-04-24T12:00:00.000Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x331D0A336Ffd73d7Ccc28DeeCAdd4F8a885dA2A6",
+      "name": "TSAR Coin",
+      "symbol": "TSAR",
+      "decimals": 18,
+      "logoURI": "https://junkijay.github.io/tsar-assets/logomark.png"
+    }
+  ]
+}
